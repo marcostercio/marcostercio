@@ -10,8 +10,8 @@ Desenvolvimento de aplicações web, APIs REST e integrações entre sistemas.
 
 <br>
 
-<a href="SEU_LINKEDIN">
-  <img src="https://www.linkedin.com/in/marcos-t%C3%A9rcio-ramos-b0618b136/">
+<a href="https://www.linkedin.com/in/marcos-t%C3%A9rcio-ramos-b0618b136/">
+   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://www.instagram.com/marcostercio/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
